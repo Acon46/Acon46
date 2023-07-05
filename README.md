@@ -32,4 +32,4 @@ Supports ;)
 Statics
 -->
 <h3 align="left">📊 Statics:</h3>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight" alt="My statics"></p><br/><p><img src="https://github-readme-stats.vercel.app/api?username=acon46&show_icons=true&theme=tokyonight" alt="My statics"></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=acon46&show_icons=true&theme=tokyonight" alt="My statics"></p><br/><p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight" alt="My statics"></p>
