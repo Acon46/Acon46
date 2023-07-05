@@ -1,13 +1,14 @@
 <h1 align="center">👋, I'm Acon! (My nickname)</h1>
 <h3 align="center">About ◽ I'm a beginner developer and i am interested in data science and web. I try to improve myself every day.</h3>
 
+<p>My discord, <strong>.acon46</strong></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/acon46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="acon46" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/acon46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="acon46" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22181176" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22181176" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/acon46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="acon46" height="30" width="40" /></a>
-<a href="https://discord.gg/.acon46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".acon46" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
