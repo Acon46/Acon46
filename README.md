@@ -32,4 +32,4 @@ Supports ;)
 <!--
 Statics
 -->
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight" alt="My statics"></p><p align="center"><img src="https://github-readme-stats.vercel.app/api?username=acon46&show_icons=true&theme=tokyonight" alt="My statics"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=acon46&show_icons=true&theme=tokyonight" alt="My statics"></p><p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight" alt="My statics"></p>
