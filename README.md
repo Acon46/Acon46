@@ -8,5 +8,6 @@
 - I can do advanced Haxball bots and Discord Bots.
 
   
-
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=Acon46&show_icons=true&theme=radical)
+# Github stats
+![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
