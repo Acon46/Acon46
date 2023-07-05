@@ -17,6 +17,10 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/acon46"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="acon46" /></a></p><br><br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acon46)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=acon46" alt="My statics">
+</p>
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=acon46&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=acon46&show_icons=true&theme=radical" alt="My statics">
+</p>
